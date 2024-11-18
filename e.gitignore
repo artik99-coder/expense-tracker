@@ -1,0 +1,15 @@
+# IDE
+.idea/
+*.iml
+
+# Build files
+target/
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Secrets
+application.properties
+application.yml
